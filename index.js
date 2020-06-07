@@ -19,7 +19,7 @@ Airplane.prototype.land = function () {
   this.isFlying = false;
 };
 
-
+console.log(Airplane());
 /*
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
